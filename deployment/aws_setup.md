@@ -38,8 +38,7 @@ sudo apt update
 
 4. Clone the Project Repository
 
-Clone the GitHub project:
-git clone https://github.com/kaivalyasagi/CogniviseAI_PROJ.git
+Clone the GitHub project
 
 ⸻
 
